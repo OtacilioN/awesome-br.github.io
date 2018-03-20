@@ -8,4 +8,14 @@
   "author": {
     "name": "CFBCursos - Canal Fessor Bruno"
   }
+},{
+  "name": "C++",
+  "url": "https://github.com/OtacilioN/Brasilino",
+  "type": "biblioteca",
+  "tags": [
+    "C++", "biblioteca"
+  ],
+  "author": {
+    "name": "Equipe Brasilino"
+  }
 }]
